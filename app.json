@@ -24,7 +24,8 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.Ekam"
     },
     "android": {
       "adaptiveIcon": {
